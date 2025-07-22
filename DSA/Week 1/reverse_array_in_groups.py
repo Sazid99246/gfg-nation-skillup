@@ -11,8 +11,6 @@ class Solution:
                 end -= 1
         return arr
 
-            
-        return reversed_arr
 
 s=Solution()
 print(s.reverseingroups([1, 2, 3, 4, 5], 3))
