@@ -1,6 +1,5 @@
 package week1.day3;
 
-import java.lang.*;
 import java.util.*;
 
 class ConcatenateIntegers {

@@ -17,7 +17,6 @@ class Solution {
 
 public class ArrayTraversalReverse {
     public static void main(String[] args) {
-        Solution s = new Solution();
         Solution.arrayTraversalReverse(new int[]{54, 43, 2, 1, 5});
     }
 }

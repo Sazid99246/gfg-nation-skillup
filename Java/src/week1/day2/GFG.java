@@ -1,10 +1,9 @@
 package week1.day2;
 
-import java.io.*;
-import java.lang.*;
 import java.util.*;
 
 public class GFG {
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
@@ -13,7 +12,7 @@ public class GFG {
         // Prints a
         System.out.println(a);
         // Prints b
-        // System.out.println(b);
+        System.out.println(b);
         // Prints c
         System.out.println(c);
     }
